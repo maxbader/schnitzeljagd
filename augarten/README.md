@@ -40,7 +40,7 @@ Gebraucht wird:
 15. Hinweis bei der Großen Platane beim Lokal
 16. Tauziehen
 17. 8-9+6 am Kopf betrachten `9+6-8=7`
-18. Der Code ist am letzten Zettel den aber nicht ausgeben
+19. Der Code ist am letzten Zettel den aber nicht ausgeben
 
 <img src="map.png" height="400"/>
 
