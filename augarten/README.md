@@ -13,5 +13,5 @@ Gebraucht wird:
 * Tau für Seilziehen
 * Massband oder Meterstab 
 * 
-<img src="map.png" width="200"/>
+<img src="map.png" height="400"/>
 
