@@ -12,6 +12,6 @@ Gebraucht wird:
 * Kompass
 * Tau für Seilziehen
 * Massband oder Meterstab 
-
-![augarten/README.md](augarten/map.png "Augarten")
+* 
+<img src="map.png" width="200"/>
 
