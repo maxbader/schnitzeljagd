@@ -2,14 +2,14 @@
 
 Ziel der Jagt ist es ein Nummernschloss zu öffnen (Schatzkiste).
 
-Die Schnitzel
-* [DieSchnitzelAugarten.odt](OpenOffice)
-* [DieSchnitzelAugarten.pdf](PDF)
-
 * ca 3km, 
 * dauer 1h
 * ab 10 Jahre
 * ca 14 Stationen
+
+Die Schnitzel
+* [DieSchnitzelAugarten.odt](OpenOffice)
+* [DieSchnitzelAugarten.pdf](PDF)
 
 Gebraucht wird:
 
