@@ -8,8 +8,8 @@ Ziel der Jagt ist es ein Nummernschloss zu öffnen (Schatzkiste).
 * ca 14 Stationen
 
 Die Schnitzel
-* [DieSchnitzelAugarten.odt](OpenOffice)
-* [DieSchnitzelAugarten.pdf](PDF)
+* [OpenOffice](DieSchnitzelAugarten.odt)
+* [PDF](DieSchnitzelAugarten.pdf)
 
 Gebraucht wird:
 
